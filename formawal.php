@@ -43,6 +43,7 @@
 			</tr>
 			<tr>
 				<td>EDITING <input type="checkbox" name="hobi[]" value="editing"></td>
+				<TD><input type="file" name="file"></TD>
 				<td><input type="submit" name="kirc" value="Check"></td>
 			</tr>
 		</table>
